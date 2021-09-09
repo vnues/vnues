@@ -1,5 +1,8 @@
 ### hello,我是落落落洛克
 
+- [React学习Blog](https://github.com/vnues/react-knowledge/issues)
+- [Vue学习Blog](https://github.com/vnues/vue-knowledge/issues)
+> 交流学习联系：vnues123(wechat)
 <div>
    <a href="https://github.com/anuraghazra/github-readme-stats">
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnues&theme=dracula&hide=html,shell">
@@ -9,6 +12,4 @@
     </a>
 </div>
 
-- [React学习Blog](https://github.com/vnues/react-knowledge/issues)
-- [Vue学习Blog](https://github.com/vnues/vue-knowledge/issues)
 
