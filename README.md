@@ -1,7 +1,6 @@
 ### hello,我是落落落洛克
 
-- [React学习Blog](https://github.com/vnues/react-knowledge/issues)
-- [Vue学习Blog](https://github.com/vnues/vue-knowledge/issues)
+- [blog](https://github.com/vnues/blog/issues)
 > 交流学习联系：vnues123(wechat)
 <div>
    <a href="https://github.com/anuraghazra/github-readme-stats">
